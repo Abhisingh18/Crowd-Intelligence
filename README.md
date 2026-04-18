@@ -1,4 +1,5 @@
 # Crowd Intelligence OS
+Deployed link:  https://crowd-intelligence-l58l.vercel.app/
 
 A high-performance visual pedestrian and traffic tracking system specifically designed for robust crowd density calculation. Built for scale, it handles intense scenarios like the **Shibuya Scramble Crossing** by automatically extracting trajectories, dwell times, and spatial flow vectors.
 
