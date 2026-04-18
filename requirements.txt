@@ -1,0 +1,13 @@
+ultralytics
+opencv-python
+streamlit
+pandas
+matplotlib
+seaborn
+scipy
+plotly
+numpy
+python-dotenv
+fastapi
+uvicorn
+python-multipart
